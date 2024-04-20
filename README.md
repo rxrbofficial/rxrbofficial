@@ -12,7 +12,6 @@
 - 💬 Ask me about **HTML,CSS, FiveM Development. ESX/QB/VRP.**
 
 - 📫 How to reach me **annonycyz@gmail.com**
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="HORIZONTAL" data-vanity="abdul-basit-973936266" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/abdul-basit-973936266?trk=profile-badge">Abdul Basit</a></div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/i_basiit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_basiit" height="30" width="40" /></a>
@@ -31,7 +30,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rxrbofficial&show_icons=true&locale=en" alt="rxrbofficial" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rxrbofficial&" alt="rxrbofficial" /></p>
-
-<body>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-</body>
